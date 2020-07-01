@@ -9,7 +9,7 @@ ul,ol{
 
 body{
     height: 100vh;
-    background: black;
+    background: white;
     display: flex;
 
     justify-content: center;
